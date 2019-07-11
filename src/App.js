@@ -25,6 +25,19 @@ function App() {
   );
 }
 
+const songs = [
+  {
+    title: "1. Speiderbønn",
+    mel: "melody",
+    song: `
+    Kjære far i høye himmel,
+    hør mitt hjertes stille bønn:
+    hvor jeg er i verdens vrimmel
+    
+    `
+  }
+];
+
 export default App;
 
 function SwipeableTemporaryDrawer() {
@@ -59,29 +72,25 @@ function SwipeableTemporaryDrawer() {
       onKeyDown={toggleDrawer(side, false)}
     >
       <List>
-        {[
-          "1. Sanger under liljen",
-          "1. Sanger under liljen",
-          "1. Sanger under liljen",
-          "1. Sanger under liljen",
-          "1. Sanger under liljen",
-          "1. Sanger under liljen",
-          "1. Sanger under liljen",
-          "1. Sanger under liljen",
-          "1. Sanger under liljen",
-          "1. Sanger under liljen",
-          "1. Sanger under liljen",
-          "1. Sanger under liljen"
-        ].map((text, index) => (
+        {songs.map((song, index) => (
           <ListItem button key={index} onClick={setSong(index)}>
-            <ListItemText primary={text} />
+            <ListItemText primary={song.title} />
           </ListItem>
         ))}
       </List>
     </div>
   );
 
-  const content = songIndex ? songIndex : "Ingen sang valgt";
+  const content =
+    songIndex == null ? (
+      "Ingen sang valgt"
+    ) : (
+      <div>
+        <h1>{songs[songIndex].title}</h1>
+        <h2>{songs[songIndex].mel}</h2>
+        <pre>{songs[songIndex].song}</pre>
+      </div>
+    );
   console.log("state:", songIndex);
 
   return (
