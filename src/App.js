@@ -37,9 +37,11 @@ const songs = [
     `
   },
   {
-    title: "1. Speiderbønn",
+    title: "2. Speiderbønn",
     mel: "melody",
     song: `
+    Here we go again 
+
     Kjære far i høye himmel,
     hør mitt hjertes stille bønn:
     hvor jeg er i verdens vrimmel
@@ -47,9 +49,11 @@ const songs = [
     `
   },
   {
-    title: "1. Speiderbønn",
+    title: "3. Speiderbønn",
     mel: "melody",
     song: `
+    and again 
+
     Kjære far i høye himmel,
     hør mitt hjertes stille bønn:
     hvor jeg er i verdens vrimmel
@@ -57,9 +61,14 @@ const songs = [
     `
   },
   {
-    title: "1. Speiderbønn",
+    title: "4. Speiderbønn",
     mel: "melody",
     song: `
+    Kjære far i høye himmel,
+    hør mitt hjertes stille bønn:
+    hvor jeg er i verdens vrimmel
+
+
     Kjære far i høye himmel,
     hør mitt hjertes stille bønn:
     hvor jeg er i verdens vrimmel
