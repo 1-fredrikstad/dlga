@@ -35,6 +35,36 @@ const songs = [
     hvor jeg er i verdens vrimmel
     
     `
+  },
+  {
+    title: "1. Speiderbønn",
+    mel: "melody",
+    song: `
+    Kjære far i høye himmel,
+    hør mitt hjertes stille bønn:
+    hvor jeg er i verdens vrimmel
+    
+    `
+  },
+  {
+    title: "1. Speiderbønn",
+    mel: "melody",
+    song: `
+    Kjære far i høye himmel,
+    hør mitt hjertes stille bønn:
+    hvor jeg er i verdens vrimmel
+    
+    `
+  },
+  {
+    title: "1. Speiderbønn",
+    mel: "melody",
+    song: `
+    Kjære far i høye himmel,
+    hør mitt hjertes stille bønn:
+    hvor jeg er i verdens vrimmel
+    
+    `
   }
 ];
 
