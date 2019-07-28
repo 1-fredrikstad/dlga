@@ -7,6 +7,8 @@ import Divider from "@material-ui/core/Divider";
 import ListItem from "@material-ui/core/ListItem";
 import ListItemIcon from "@material-ui/core/ListItemIcon";
 import ListItemText from "@material-ui/core/ListItemText";
+import songs from "./Songs";
+import styled from "styled-components";
 
 const useStyles = makeStyles({
   list: {
@@ -25,58 +27,6 @@ function App() {
   );
 }
 
-const songs = [
-  {
-    title: "1. Speiderbønn",
-    mel: "melody",
-    song: `
-    Kjære far i høye himmel,
-    hør mitt hjertes stille bønn:
-    hvor jeg er i verdens vrimmel
-    
-    `
-  },
-  {
-    title: "2. Speiderbønn",
-    mel: "melody",
-    song: `
-    Here we go again 
-
-    Kjære far i høye himmel,
-    hør mitt hjertes stille bønn:
-    hvor jeg er i verdens vrimmel
-    
-    `
-  },
-  {
-    title: "3. Speiderbønn",
-    mel: "melody",
-    song: `
-    and again 
-
-    Kjære far i høye himmel,
-    hør mitt hjertes stille bønn:
-    hvor jeg er i verdens vrimmel
-    
-    `
-  },
-  {
-    title: "4. Speiderbønn",
-    mel: "melody",
-    song: `
-    Kjære far i høye himmel,
-    hør mitt hjertes stille bønn:
-    hvor jeg er i verdens vrimmel
-
-
-    Kjære far i høye himmel,
-    hør mitt hjertes stille bønn:
-    hvor jeg er i verdens vrimmel
-    
-    `
-  }
-];
-
 export default App;
 
 function SwipeableTemporaryDrawer() {
@@ -88,26 +38,18 @@ function SwipeableTemporaryDrawer() {
   const [songIndex, setSongIndex] = React.useState(null);
 
   const toggleDrawer = (side, open) => event => {
-    if (
-      event &&
-      event.type === "keydown" &&
-      (event.key === "Tab" || event.key === "Shift")
-    ) {
-      return;
-    }
-
     setState({ ...state, [side]: open });
   };
 
   const setSong = index => () => {
     setSongIndex(index);
+    setState({ ...state, ["left"]: false });
   };
   // https://material-ui.com/components/drawers/
   const sideList = side => (
     <div
       className={classes.list}
       role="presentation"
-      onClick={toggleDrawer(side, false)}
       onKeyDown={toggleDrawer(side, false)}
     >
       <List>
@@ -120,21 +62,9 @@ function SwipeableTemporaryDrawer() {
     </div>
   );
 
-  const content =
-    songIndex == null ? (
-      "Ingen sang valgt"
-    ) : (
-      <div>
-        <h1>{songs[songIndex].title}</h1>
-        <h2>{songs[songIndex].mel}</h2>
-        <pre>{songs[songIndex].song}</pre>
-      </div>
-    );
-  console.log("state:", songIndex);
-
   return (
     <div>
-      <Button onClick={toggleDrawer("left", true)}>Open Left</Button>
+      <Button onClick={toggleDrawer("left", true)}>{"Meny >"}</Button>
 
       <SwipeableDrawer
         open={state.left}
@@ -143,7 +73,23 @@ function SwipeableTemporaryDrawer() {
       >
         {sideList("left")}
       </SwipeableDrawer>
-      {content}
+      {songIndex == null ? (
+        <h1>"Ingen sang valgt"</h1>
+      ) : (
+        <Song song={songs[songIndex]} />
+      )}
     </div>
   );
 }
+
+const SongWrapper = styled.div`
+  padding: 10px;
+`;
+
+const Song = ({ song }) => (
+  <SongWrapper className="song-wrapper">
+    <h1>{song.title}</h1>
+    <h2>{song.mel}</h2>
+    <pre>{song.song}</pre>
+  </SongWrapper>
+);
