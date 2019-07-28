@@ -74,7 +74,7 @@ function SwipeableTemporaryDrawer() {
         {sideList("left")}
       </SwipeableDrawer>
       {songIndex == null ? (
-        <h1>"Ingen sang valgt"</h1>
+        <h1>Trykk på meny for å velge sang :) </h1>
       ) : (
         <Song song={songs[songIndex]} />
       )}

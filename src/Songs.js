@@ -2097,5 +2097,283 @@ gjennomglødet av hjerters varme.
 Speideren er, rundt på vår jord,
 hele verdens bror!`,
     author: "Ragnvald Iversen"
+  },
+  {
+    title: "101. ROLD SKOV 2004",
+    melody: "Færa til Mexico",
+    song: `Vi har vært speidere i mange år,
+og gode, gamle Rold Skov er guleroten vår.
+Nå skal vi ha en konge uke her,
+da får det væra samma om det blir dårlig vær.
+Savner mamma litt, og kanskje senga,
+men nå er det sommerleir for alla penga.
+
+Ref.
+Nå er det nok, jeg har fått lov
+jeg har fått nok av å vente på Rold Skov
+Nå vil vi færa til Rold Skov,
+færa på leir til Rold Skov.
+Bare leke, bade, prøve å ha det litt gøy,
+men da er det punktum finale, du får rydde
+før inspeksjon sjøl!
+
+Når Tiur, Falk og også dem i Ørn
+drar  på leir til Rold Skov og tar hver sin tørn
+Nå har Anders bare svika oss,
+nå er'n jo med i staben og er blitt en boss.
+Han Guttorm han er sjef for hele leiren
+de store gutta sikrer sikkert seiern
+
+Ref.
+
+På morrabad i Øksøs rødbunn,
+i Skørping er vi alle kundefunn.
+Og vi må bære sekker på vår rygg,
+på hiken suger, stikker hver en liten mygg.
+Leirbålskvelder fulle av sanger og bra vitser
+etterflugt av troppens kamerablitzer.
+
+Ref.`,
+    author: "Magnus Vøllo / Henrik Mathiesen / Henrik Melsom"
+  },
+  {
+    title: "102. JEG er fri (Landsleir Fri:05)",
+    melody: "",
+    song: `Det er en helt alminnelig lørdag i april
+Kafébesøk og gode venner, radio og det som hører med
+Så plutselig kjennes hele kroppen som et smil
+Alt inni meg vil eksplodere,
+Hodet snurrer rundt, hva er det som skjer?
+
+Jeg kjenner noe strømme
+Jeg kjenner noe er på vei
+Jeg lukker øynene, og halvt i drømme skjønner jeg
+
+Ref.
+Jeg er fri
+Som første tegn på sommer
+I øyet alt som kommer
+I hjertet det som var
+Jeg er fri
+Nå tar jeg sats og hopper
+Går på der veien stopper
+Med mine egne svar
+
+Det er som alt med ett er klart og lett å se
+Og det som sa seg selv en gang, blir nytt og interessant å tenke på
+Som verden åpner seg og himmelen faller ned
+Jeg løper ut i sola,
+Jeg må finne ut hva jeg skal gjøre nå
+
+For nå er allting mulig
+Alt ligger som en åpen vei
+Der jeg skal storme fram, og ingenting skal hindre meg
+
+Ref.
+
+Og det som er så fint
+Er å komme til et sted der ingen kjenner alle
+Vet de er en del av det å være fri
+Å være du og jeg du, jeg, VI
+
+Ref.
+
+Jeg er fri x 3`,
+    author: "Vibeke Saugestad"
+  },
+  {
+    title: "108. SKUGGEBO 2010",
+    melody: "",
+    song: `Når sekken og bussen er stappa til randen,
+og muttern og fattern er glemt.
+Setter vi kursen mot Sverige og småland,
+leirfølelsen er her igjen - min venn
+
+Ref.
+Jeg vil ikke reise hjem igjen
+fra morgengym bading og leirbål hver
+kveld.
+Og derfor synger vi;
+Skuggebo 2010 - her vil vi bli
+
+Tiur og falk, hauk, ravn, ørn, og gjøk
+og Nils og Beate* er medSverveli, lavo, og fettfellenetting
+pakka vi også ned - gjorde vi ikke det?
+
+ref.
+
+(bridge)
+Handle i kiosken og ta meg et bad
+Serriøst kan man det bedre ha
+Jeg vil bare leve med 1.fredrikstad
+og jeg vil hvertfall ikke....
+
+ref.
+
+Kanopadlemerket og femstjerners-middag
+klarer jeg lett skal du se!
+Mot til å be med meg tha lööv på date,
+det var det verre med - desverre
+
+*Her synger du dine to favorittlederes navn`,
+    author: "Magnus Vøllo"
+  },
+  {
+    title: "112. DROMLE 2014",
+    melody: "Call me maybe",
+    song: `1.Årets leir blir en fest, for
+førstetroppinger flest. Hos søta bror er vi
+gjest, det er vår drømmeleir. Speidere,
+rovere se, alle de beste ble med. Her kan vi
+kose, chille, her blir det løv og SWAG.
+Ekke' vanlig telttur det er haik lek, bad og
+bytur!! herlig svensk natur, yeah!
+Dette er vår drømmeleir!
+
+Ref: Hei Drõmleleiren - den er helt crazy. Vi
+holder sammen - aldri mer solo! Din drøm
+kan bli sann - for her går alt an! Vi blir for 
+alltid - say hashtag TOLO!
+
+2. Ravnebabes mekker liv, tiurbros kaster
+kniv, falkedudes er i driv, ørnebrusj twerker
+fett! Roverne hvor ble de av? Jeg hakke sett
+de i dag? De slapper helt sikkert av, og
+drømmer om no' rart!
+En kule stab vi har med, og Jørgen han er hel
+ved, vi danser rundt vårt ildsted,
+For dette er en drømmeleir!
+
+Ref.
+
+3. Holder surringa mi? Er inspeksjonen på
+gli? Dette får bli som det blir, det er vår
+drømmeleir! Revelja teltduken når, pæsa i
+påsan i går, her er dettøffe kår, men alltid
+med et smil.
+
+For Her i Dølme' i deje, skal vi rule,
+steke' å eie. Aldri går vi leie for, dette er
+vår drømmeleir!
+
+Ref.
+
+4. I kiosken kjøper du coke, ved bålet
+lager du smoke, beatemor draren joke,
+og leker kattemann! Og om det
+kommer en elg, øks eller kniv bare velg
+i Karlstad kjøttet ditt selg! Speidern er morsom yeah!
+
+Røykvenderen har blitt tett, så henta litt
+sleggefett.
+Doble i deje's budsjett vil aldri ta slutt,
+hurra!
+
+Ref.`,
+    author: "Magnus Vøllo"
+  },
+  {
+    title: "114. Apelhult 2016",
+    melody: "Viva Colonia",
+    song: `1. Vi reiser gjerne sørover,
+til skog og dyp blå sjø
+Der solen er litt større,
+og der limpa betyrbrød
+Her har vi leir for første gang,
+vi kommer nok gjerne igjen!
+Her skal vi pyrre, leke, bade og...
+kanskje møte Glenn!
+
+Ref.
+Se alt blir en fest i svensk klima - 
+leirliv er prima!
+Inspeksjonen gikk preltfritt,
+og maten den sa pang
+Nå vil vi hylle Apelhult med
+den glade sang!
+
+Elg og Ravn og Falk og Ørn
+og Hakkespettene
+Lager liv i leiren,
+tvinger kjedsomhet i kne!
+Men oppvaska gikk unna,
+tror nesten at den løp
+Like fort som jeg løp til vår kiosk...
+for å gjør' et godt kjøp!
+
+Ref. (2x)
+
+Ryper og en type har flydd til 
+leiren inn med dobbel dose
+Magnus, Beate, Hans og Nils
+Styrer de vår leir,
+og gjør de ikke jobben godt
+Kaster vi dem ut i stora Hålsjõn - 
+det hadde vært flott
+
+Ref.(2x)`,
+    author: "Magnus Vøllo"
+  },
+  {
+    title: "116. ROLD SKOV 2018",
+    melody: "Vil du værra medmeghjem i natt",
+    song: `1. Skolen er snart over,
+Lengter bort fra muttern's gnell
+Til et sted med vakre sletter
+Uten høye fjell.
+
+Over Skagerak vi hørte,
+Skovmesterns djungelvrål
+En gnist ble tent i meg
+Og her i Rold Skov er vårt bål
+
+Refr.
+16 ganger har vi vært her før
+I 60 år har vi sett samme glør
+Og selv når vi drar hjem og bålet dør'
+- husker vi!
+
+Store Øksø som vi bada i,
+Haiken som gikk over stokk og sti
+At det var her jeg følte meg helt fri
+- i Rold Skov
+
+2. Dagen er snart over
+Lengter bort fra peffen's gnell
+Til et sted helt uten zalo
+Og oppvask hver kveld
+
+Men om vi skrubber sammen
+Blir med reneste magi,
+Gryta fri for svidd kartoffel
+Og da vanker litt fritid
+
+Refr.
+
+3. Leiren' er snart over 
+Kan'ke si jeg lengter bort
+Når hver dag er et eventyr 
+går det alt for fort.
+
+Surringer og knuter,
+Ja, visst fikk jeg bruk for dem
+Men det viktigte av alt
+- jeg fikk meg en helt ny venn!
+
+Refr.`,
+    author: "Magnus Vøllo"
+  },
+  {
+    title: "117. ZELHOFF 2019",
+    melody: "",
+    song: `Once some Austrians held summer camp 
+with their Norwegian Friends!
+When along came a _____ interrupting
+their camp!
+
+://: Yo-delayy ki ki, yo-delayy ki koo ://:
+
+Yo-delay ki ki, yo!`,
+    author: "Magnus Vøllo"
   }
 ];
