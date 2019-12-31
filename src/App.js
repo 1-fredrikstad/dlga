@@ -89,7 +89,7 @@ const SongWrapper = styled.div`
 const Song = ({ song }) => (
   <SongWrapper className="song-wrapper">
     <h1>{song.title}</h1>
-    <h2>{song.mel}</h2>
+    <h2>{song.melody}</h2>
     <pre>{song.song}</pre>
   </SongWrapper>
 );
